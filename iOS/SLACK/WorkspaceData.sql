@@ -1,0 +1,6 @@
+select
+ZSLKTEAM.ZDOMAIN,
+ZSLKTEAM.ZAUTHUSERID,
+datetime(ZSLKTEAM.ZMOSTRECENTREADTS, 'unixepoch', 'localtime') as MostRecentThreads,
+ZSLKTEAM.ZTSID
+from ZSLKTEAM
