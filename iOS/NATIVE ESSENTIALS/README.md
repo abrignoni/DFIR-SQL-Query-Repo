@@ -1,4 +1,5 @@
 Queries courtesy of Sarah Edwards at https://www.mac4n6.com  
+*Note that some of the examples are applicable to selected MacOS databases.  
 
 ACCOUNTS & ACCOUNT_TYPES <-> (Accounts3.sqlite/Accounts4.sqlite)  
 
