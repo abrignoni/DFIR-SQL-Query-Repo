@@ -2,7 +2,7 @@ Queries courtesy of Sarah Edwards at https://www.mac4n6.com
 
 ACCOUNTS & ACCOUNT_TYPES <-> (Accounts3.sqlite/Accounts4.sqlite)  
 
-CALENDAR <-> (Calendar Cache/Calendar.sqlitedb) 
+CALENDAR <-> (Calendar Cache/Calendar.sqlitedb)  
 REMINDERS <-> (Calendar Cache/Calendar.sqlitedb)  
 
 iOS LOCATIONS  
