@@ -26,7 +26,8 @@ Pass_Information <-> (passes23.sqlite)
 SAFARI WEB BROWSER  
 Browsing_History <-> (History.db)  
 Browser_Cache <-> (Cache.db)  
-iOS_BrowserState <-> (iOS BrowserState.db)   
+iOS_BrowserState <-> (iOS BrowserState.db)
+iOS_BrowserState_Updated <-> (iOS BrowserState.db)
 
 SMS/Chat  
 SMS_Messages <-> (SMS.db/chat.db)  
