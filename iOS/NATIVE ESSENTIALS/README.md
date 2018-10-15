@@ -17,7 +17,7 @@ NOTES
 Notes_Content <-> (Notes.sqlite / NotesV#.storedata)  
 Note_Folders <-> (NotesStore.sqlite)  
 Notes_Database <-> (NotesStore.sqlite)  
-Notes_Database & Note_Attachments_Media <-> (NotesStore.sqlite)  
+Notes_Database_Note_Attachments_Media <-> (NotesStore.sqlite)  
 
 APPLE PAY / WALLET / PASSES  
 Pass_Information <-> (passes23.sqlite)  
