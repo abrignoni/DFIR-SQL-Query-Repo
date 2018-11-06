@@ -6,6 +6,7 @@ verion 3.10.1. For details see blog post here:
 
 By: Alexis Brignoni
 Twitter: @AlexisBrignoni
+Blog: abrignoni.blogspot.com
 */
 
 select
