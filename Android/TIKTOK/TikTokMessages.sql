@@ -1,7 +1,7 @@
 /* For this query to run the db_im_xx database must be attached to your working
 messages table. The messages table has a 19 digit long filename witht the _im.db extension.
-In this sample query the attached db_im_xx table was named as 'nicks'. You have to attach it
-and name it the same for this query to run as-is. This query was tested in DB Browser for SQLite
+In this sample query the attached dayabase is db_im_xx. You have to attach it
+and this query to run as-is. This query was tested in DB Browser for SQLite
 verion 3.10.1. For details see blog post here: 
 
 By: Alexis Brignoni
@@ -24,5 +24,5 @@ read_status,
 	end
 	read_not_read,
 local_info
-from nicks.SIMPLE_USER, msg
+from SIMPLE_USER, msg
 where UID = sender order by created_time
