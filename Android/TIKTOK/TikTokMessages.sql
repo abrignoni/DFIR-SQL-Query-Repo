@@ -1,8 +1,8 @@
 /* For this query to run the db_im_xx database must be attached to your working
 messages table. The messages table has a 19 digit long filename witht the _im.db extension.
 The messages table can be found using ([0-9]{19})(_im.db)$
-In this sample query the attached dayabase is db_im_xx. You have to attach it
-and this query to run as-is. This query was tested in DB Browser for SQLite
+In this sample query the attached database is named db_im_xx. You have to attach it
+for this query to run as-is. This query was tested in DB Browser for SQLite
 verion 3.10.1. For details see blog post here: 
 
 By: Alexis Brignoni
