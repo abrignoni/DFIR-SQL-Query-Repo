@@ -1,7 +1,7 @@
 /* For this query to run the AwemeIM.db database must be attached to your working  
 messages table. The messages table directory has a 19 digit long filename and the database within the directory is named db.sqlite. You have to attach one of the  
 tables to the other in order for this query to run as-is. This query was tested in DB Browser for SQLite  
-verion 3.10.1. For details see blog post here: https://abrignoni.blogspot.com/2018/11/finding-tiktok-messages-in-android.html  
+verion 3.10.1. For details see blog post here:   
 By: Alexis Brignoni  
 Twitter: @AlexisBrignoni  
 Blog: abrignoni.blogspot.com  
