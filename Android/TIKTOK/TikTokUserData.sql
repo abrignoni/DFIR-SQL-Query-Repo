@@ -1,6 +1,6 @@
 /* The database needed for this query is called db_im_xx.
 This query was tested in DB Browser for SQLite verion 3.10.1. 
-For details see blog post here: 
+For details see blog post here: https://abrignoni.blogspot.com/2018/11/finding-tiktok-messages-in-android.html
 
 By: Alexis Brignoni
 Twitter: @AlexisBrignoni
