@@ -3,7 +3,7 @@ messages table. The messages table has a 19 digit long filename witht the _im.db
 The messages table can be found using ([0-9]{19})(_im.db)$
 In this sample query the attached database is named db_im_xx. You have to attach it
 for this query to run as-is. This query was tested in DB Browser for SQLite
-verion 3.10.1. For details see blog post here: 
+verion 3.10.1. For details see blog post here: https://abrignoni.blogspot.com/2018/11/finding-tiktok-messages-in-android.html
 
 By: Alexis Brignoni
 Twitter: @AlexisBrignoni
