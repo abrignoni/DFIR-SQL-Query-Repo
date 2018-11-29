@@ -5,5 +5,6 @@ Many of these queries will have an accompanying README with a link for more deta
 
 The 'UFED PA - SQLite Wizard' excel spreadsheet will list all the apps that have artifact extraction support in the Cellebrite tool. These XML files can be found in the indicated app folder per platform within this repo. 
 
-The 'Axiom - Custom Artifact' excel spreadsheet will list all the apps that have artifact extraction support in the Magnet Forensics tool. These XML files can be found in the Custom Artifacts exchange webpage located here: https://artifacts.magnetforensics.com/ArtifactExchangeLogin   
+The 'Axiom - Custom Artifact' excel spreadsheet will list all the apps that have artifact extraction support in the Magnet Forensics tool. These XML files can be found in the Custom Artifacts exchange webpage located here:   https://artifacts.magnetforensics.com/ArtifactExchangeLogin  
+
 After login go to the 'AUTHORS' section on the right side of the website and click 'Alexis Brignoni' to get the full downloadable list.
