@@ -8,3 +8,5 @@ The 'Axiom - Custom Artifact' excel spreadsheet will list all the apps in the re
 https://artifacts.magnetforensics.com/ArtifactExchangeLogin  
 
 After login go to the 'AUTHORS' section on the right side of the website and click 'Alexis Brignoni' to get the full downloadable list.
+
+The 'UFED PA - SQLite Wizard List' excel spreadsheet will list all the apps in the repo that have artifact extraction support in the Cellebrite tool. The XML files can be found in the repo within the pertinent app directories herein.
