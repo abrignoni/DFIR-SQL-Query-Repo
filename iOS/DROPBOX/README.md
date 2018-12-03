@@ -4,7 +4,7 @@ Twitter: @AlexisBrignoni
 Blog: abrignoni.blogspot.com  
 
 Dropbox user activity and file metadata.  
-To get details on the database in use and the purpose of thsee queries see here: <blogpost pending>  
+To get details on the database in use and the purpose of thsee queries see here: (blogpost pending)  
 
 Scripts to database relationships:  
 AllCachedFilesMetadata.sql <-> Dropbox.sqlite  
