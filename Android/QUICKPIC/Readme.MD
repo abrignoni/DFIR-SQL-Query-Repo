@@ -1,4 +1,4 @@
-Jan 16, 2019
+Jan 16, 2019  
 By abrignoni.com  
 QuickPic app for Android
 
